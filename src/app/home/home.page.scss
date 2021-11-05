@@ -1,6 +1,9 @@
 ion-content {
   --background: none;
   background-image: url('../../assets/beaultAPP.png');
+  background-size: cover;
+  background-repeat: none;
+  background-position: center;
 }
 
 #container {
